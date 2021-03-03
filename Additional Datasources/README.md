@@ -1,6 +1,6 @@
 # Additional Datasources
 
-Here you find four additional data sources that can be used for several challenges.
+Here you find four additional data sources.
 
  - [Crisis Indicators](Crisis%20Indicators)
     - This dataset contains information on crisis-related events, with specific information on the incident, coordinates, etc. 
