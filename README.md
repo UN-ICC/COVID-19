@@ -1,8 +1,8 @@
-# Covid-19 Challenge
+# Covid-19 Data
 
 ##### Context:
 
-There are 3 main sources associated to this competition:
+There are 3 main sources:
 
 - [European Centre for Disease Prevention and Control](European%20Centre%20for%20Disease%20Prevention%20and%20Control)
   - 8 datasets
@@ -11,6 +11,12 @@ There are 3 main sources associated to this competition:
   - Global daily reports (Global and US)
 - [The Covid Tracking Project](The%20Covid%20Tracking%20Project)
   - Fine-grained US dataset
+
+There are also [Additional Datasources](Additional%20Datasources)
+- Crisis Indicators
+- Human Development Index
+- World Development Indicators
+- Total Population
 
 -----------------------------------------------------------------------------------------------------------------------------
 
